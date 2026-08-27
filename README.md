@@ -460,9 +460,10 @@ Potential future directions:
 
 ---
 
-# 📜 License
+<img width="1272" height="1272" alt="Screenshot 2026-08-27 142715" src="https://github.com/user-attachments/assets/0d24966e-2234-4fd9-97d6-4931cc560beb" />
 
-Add your project's license information here.
+<img width="1292" height="1184" alt="Screenshot 2026-08-27 142744" src="https://github.com/user-attachments/assets/d9aeaf83-63f8-4e7b-b492-af5991bf383a" />
+
 
 ---
 
